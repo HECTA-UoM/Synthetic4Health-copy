@@ -6,4 +6,4 @@ This work presents a system for generating synthetic, de-identified clinical let
 Pre-print paper: [https://arxiv.org/abs/2409.09831](url)
 
 # new hosting repository: please visit
-[https://github.com/Libo-Ren/HECTA-UoM-Synthetic4Health](url)
+https://github.com/Libo-Ren/HECTA-UoM-Synthetic4Health
