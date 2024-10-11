@@ -13,7 +13,7 @@ This work presents a system for generating synthetic, de-identified clinical let
       eprint={2409.09501},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2409.09501}, 
+      url={ https://arxiv.org/abs/2409.09501 }, 
 }
 
 # new hosting repository: please visit
